@@ -1,0 +1,14 @@
+[package]
+name = "gutsy"
+version = "0.1.0"
+authors = ["Hendrik Sollich <hendrik@hoodie.de>"]
+
+[dependencies]
+actix-web = "0.6"
+actix = "0.5"
+env_logger = "0.5"
+log = "0.4"
+serde_json = "1"
+serde_derive = "1"
+serde = "1"
+native-tls = "0.1.5"
